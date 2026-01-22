@@ -1,0 +1,7 @@
+data
+*.ply
+cogengines
+*.pyc
+*.png
+*.xlsx
+*.pdf
